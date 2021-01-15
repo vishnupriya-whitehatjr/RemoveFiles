@@ -3,7 +3,6 @@
 #### Remeber to be in the correct path while execution. 
 #### Trace path using cd name for changing directory.
 
-<br/>
 #### Before Execution: 
 <img width="262" alt="Screenshot 2021-01-14 at 11 30 05 PM" src="https://user-images.githubusercontent.com/59869563/104630376-af519100-56c0-11eb-8c35-791e4ff9ebe4.png">
 
